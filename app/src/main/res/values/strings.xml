@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirstAndriodApp</string>
+    <string name="button_text">Say Hello!</string>
+</resources>
