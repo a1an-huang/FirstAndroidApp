@@ -35,7 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Setting up the development environment 
+Setting up the development environment   
 Not being familiar with the Kotlin Programming Language
 
 ## License
