@@ -22,6 +22,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+![android dev](https://user-images.githubusercontent.com/98438095/184021816-b2ada7ad-d8c3-4274-8078-e90b2b2f95cd.gif)
+
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
@@ -34,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Setting up the development environment 
-Not familiar with the Kotlin Programming Language
+Not being familiar with the Kotlin Programming Language
 
 ## License
 
