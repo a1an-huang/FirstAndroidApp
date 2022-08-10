@@ -1,18 +1,18 @@
-# Android Prework - *Name of App Here*
+# Android Prework - *My First Android App*
 
-Submitted by: **Your Name Here**
+Submitted by: **Alan Huang**
 
-**Name of your app** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**My First Android App** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] Image and introductory message displayed on screen
-* [ ] Button displayed on screen
-* [ ] Toast with message appears when button is pressed 
+* [X] Image and introductory message displayed on screen
+* [X] Button displayed on screen
+* [X] Toast with message appears when button is pressed 
 
 The following **optional** features are implemented:
 
@@ -33,11 +33,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Setting up the development environment 
+Not familiar with the Kotlin Programming Language
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Alan Huang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
